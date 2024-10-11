@@ -1,7 +1,7 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "solgan": "从创意到剧本，AI全程助力。"
   },
   "LandingPage": {
     "Index": {
@@ -158,7 +158,7 @@
       },
       "goldenFleece": {
         "name": "金羊毛",
-        "description": "一个寻找奖品的冒险叙事，重在主角的内在成长和变化……"
+        "description": "一个寻找宝藏的冒险叙事，重在主角的内在成长和变化……"
       }
     }
   },
